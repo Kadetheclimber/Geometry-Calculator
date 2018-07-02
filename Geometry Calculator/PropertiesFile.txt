@@ -1,0 +1,7 @@
+Main Button Sizes:
+	203, 55
+	
+Panel list Indexs:
+	0: Start Page
+	1: Area Page
+	2: Volume Page
